@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nombre": "v.rosendo",
+            "clave": "J.12mm8",
+            "id_rol": 1
+        },
+        {
+            "id": 2,
+            "nombre": "j.baez",
+            "clave": "B.34vf8",
+            "id_rol": 2
+        },
+        {
+            "id": 3,
+            "nombre": "a.diaz",
+            "clave": "C.54yt78",
+            "id_rol": 2
+        }
+    ],
+    "ramos": [
+        {
+            "id": 1,
+            "sigla": "PGY4237",
+            "nombre": "Diseño de prototipos"
+        },
+        {
+            "id": 2,
+            "sigla": "PGY4121",
+            "nombre": "Programación de aplicaciones móviles"
+        }
+    ]
+}
