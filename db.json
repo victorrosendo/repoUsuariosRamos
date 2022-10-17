@@ -3,19 +3,19 @@
         {
             "id": 1,
             "nombre": "v.rosendo3",
-            "clave": "J.12mm0",
+            "clave": "J.12mm1",
             "id_rol": 1
         },
         {
             "id": 2,
             "nombre": "j.baez3",
-            "clave": "B.34vf0",
+            "clave": "B.34vf1",
             "id_rol": 2
         },
         {
             "id": 3,
             "nombre": "a.diaz3",
-            "clave": "C.54yt70",
+            "clave": "C.54yt71",
             "id_rol": 2
         }
     ],
