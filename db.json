@@ -2,19 +2,19 @@
     "users": [
         {
             "id": 1,
-            "nombre": "v.rosendo",
+            "nombre": "v.rosendo2",
             "clave": "J.12mm9",
             "id_rol": 1
         },
         {
             "id": 2,
-            "nombre": "j.baez",
-            "clave": "B.34vf8",
+            "nombre": "j.baez2",
+            "clave": "B.34vf9",
             "id_rol": 2
         },
         {
             "id": 3,
-            "nombre": "a.diaz",
+            "nombre": "a.diaz2",
             "clave": "C.54yt78",
             "id_rol": 2
         }
