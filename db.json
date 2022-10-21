@@ -2,20 +2,20 @@
     "users": [
         {
             "id": 1,
-            "nombre": "v.rosendo3",
-            "clave": "J.12mm1",
+            "nombre": "v.rosendo5",
+            "clave": "J.12mm5",
             "id_rol": 1
         },
         {
             "id": 2,
-            "nombre": "j.baez3",
-            "clave": "B.34vf1",
+            "nombre": "j.baez5",
+            "clave": "B.34vf5",
             "id_rol": 2
         },
         {
             "id": 3,
-            "nombre": "a.diaz3",
-            "clave": "C.54yt71",
+            "nombre": "a.diaz5",
+            "clave": "C.54yt75",
             "id_rol": 2
         }
     ],
@@ -23,12 +23,12 @@
         {
             "id": 1,
             "sigla": "PGY4237",
-            "nombre": "Diseño de prototipos"
+            "nombre": "Programación de Base de Datos"
         },
         {
             "id": 2,
             "sigla": "PGY4121",
-            "nombre": "Programación de aplicaciones móviles"
+            "nombre": "Programación de aplicaciones móviles II"
         }
     ]
 }
